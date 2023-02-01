@@ -1,1 +1,1 @@
-Configuration Management
+# Solutions to tasks on Configuration management
