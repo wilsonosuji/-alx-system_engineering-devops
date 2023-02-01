@@ -1,1 +1,1 @@
-Attack is the best defence
+# Attack is the best defense
